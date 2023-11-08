@@ -6,5 +6,4 @@
 - 🎭 I’m currently working [@pgharts](https://github.com/pgharts)
 - 🥖 I’m currently learning hotwire and sourdough artisanry 
 - 🛵 Ask me about my vespa 
-- 📫 How to reach me: [@danigirl329](https://twitter.com/danigirl329)
 - ⚡ Fun fact: I'm self taught!
